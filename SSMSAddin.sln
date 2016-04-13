@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SSMSAddin", "SSMSAddin\SSMSAddin.csproj", "{6C757DD8-BCCF-4E0C-B622-318CF54906FE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SqlParser", "SqlParser\SqlParser.csproj", "{8AB6441C-EA5B-4892-B2EA-EC85DEA1C9EE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SSMSAddin.Test", "SSMSAddin.Test\SSMSAddin.Test.csproj", "{26A881D7-B445-4174-8A31-7E2466F35264}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6C757DD8-BCCF-4E0C-B622-318CF54906FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C757DD8-BCCF-4E0C-B622-318CF54906FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C757DD8-BCCF-4E0C-B622-318CF54906FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C757DD8-BCCF-4E0C-B622-318CF54906FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8AB6441C-EA5B-4892-B2EA-EC85DEA1C9EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8AB6441C-EA5B-4892-B2EA-EC85DEA1C9EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8AB6441C-EA5B-4892-B2EA-EC85DEA1C9EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8AB6441C-EA5B-4892-B2EA-EC85DEA1C9EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{26A881D7-B445-4174-8A31-7E2466F35264}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26A881D7-B445-4174-8A31-7E2466F35264}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26A881D7-B445-4174-8A31-7E2466F35264}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26A881D7-B445-4174-8A31-7E2466F35264}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
